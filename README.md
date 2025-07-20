@@ -31,5 +31,4 @@ Este es un simulador de carreras en consola hecho en C++ con arte ASCII. ¡6 aut
 Compila el proyecto con un compilador de C++ que soporte `windows.h`
 
 ## Autor
-Matt Silva
-Proyecto universitario hecho con mucho esfuerzo y pasión por el desarrollo y los videojuegos
+Matt Silva - Estudiante de Ciencias de la Cumputacion en la UPC (Universidad de Ciencias Peruanas)

@@ -1,6 +1,6 @@
 # Simulador de Carreras ASCII en C++
 
-Este es un simulador de carreras en consola hecho en C++ con arte ASCII. ¡6 autos compiten en pantalla, cada uno con su propio nombre, color y velocidad! 🏎️💨
+Este es un simulador de carreras en consola hecho en C++ con arte ASCII. ¡6 autos compiten en pantalla, cada uno con su propio nombre, color y velocidad!
 
 ## Características
 
